@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Text Adventure Game](https://github.com/kyleMcCoy05/TextAdventure-Game.git)
 
-- 📫 How to reach me **kyle.mccoy0523@gmail.com**
+- 📫 How to reach me **kyle.mccoy0523+business@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
