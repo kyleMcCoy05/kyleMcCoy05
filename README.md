@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyle McCoy</h1>
 <h3 align="center">I am a primarily python programmer with some knowledge in Java and C++</h3>
 
-- 🔭 I’m currently working on [Text Adventure Game](https://github.com/kyleMcCoy05/TextAdventure-Game.git)
+- 🔭 I’m currently working on
 
 - 📫 How to reach me **kyle.mccoy0523+business@gmail.com**
 
